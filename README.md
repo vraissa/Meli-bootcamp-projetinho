@@ -1,4 +1,4 @@
-# Meli-bootcamp-projetinho
+# Exercicios service e repository
 
 Resolução das atividades:
 
